@@ -11,6 +11,9 @@ A lightweight userscript for ranking AI model providers on `nano-gpt.com` by pra
 - Collapses the benchmarks section automatically
 - Adds a sortable `Worth` column to the provider table
 
+##
+current usage focus is lumiverse RP handling
+
 ## Install
 
 1. Open the raw userscript file:
